@@ -28,9 +28,9 @@ From Command Line Run: 1. `npm init -y` 2. `npm install inquirer@8.2.4` 3. `npm 
 
 From the command line run 'node index.js' and answer prompts.
 
-View walk through video:
+View walk through video: https://drive.google.com/file/d/1XY0L_BWz4bBhK0an1rZKhpsVah1w-Rt0/view?usp=share_link
 
-![Team Profile Gen](/team_profile_generator/assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 ## Credits
 
